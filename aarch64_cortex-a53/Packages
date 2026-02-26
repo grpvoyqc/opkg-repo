@@ -7,8 +7,8 @@ Description: Tour guide audio relay server for GL-MT3000
  and fans it out to connected tourist devices in real-time.
 Section: net
 Priority: optional
-Installed-Size: 7064
+Installed-Size: 6760
 Filename: tourguided_0.1.0-1_aarch64_cortex-a53.ipk
-Size: 2882866
-SHA256sum: 4390d5c0e4aac66957aeb4fdfc7ac071a501064bfc22a4d4692e104b71acf2c9
+Size: 2732706
+SHA256sum: 228773f7f5c591c85777b4d8ccdf7cfe9e608b0c224c14a74e87ce8b9c95c863
 
