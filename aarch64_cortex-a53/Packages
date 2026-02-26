@@ -1,0 +1,14 @@
+Package: tourguided
+Version: 0.1.0-1
+Architecture: aarch64_cortex-a53
+Maintainer: GVQ <dev@grpvoyqc.com>
+Description: Tour guide audio relay server for GL-MT3000
+ WebSocket relay that receives Opus audio from a tour guide
+ and fans it out to connected tourist devices in real-time.
+Section: net
+Priority: optional
+Installed-Size: 7064
+Filename: tourguided_0.1.0-1_aarch64_cortex-a53.ipk
+Size: 2882866
+SHA256sum: 4390d5c0e4aac66957aeb4fdfc7ac071a501064bfc22a4d4692e104b71acf2c9
+
