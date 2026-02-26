@@ -7,6 +7,6 @@ Section: net
 Priority: optional
 Installed-Size: 6760
 Filename: tourguided_0.1.0-1_aarch64_cortex-a53.ipk
-Size: 2731984
-SHA256sum: 4373dd57a575f410449ffd5184fc39b3cc6272d33a37701055b68039e3ae2f7f
+Size: 2724638
+SHA256sum: 6517127e561ada202ea7eb07608a2402269d8df48f2a262d0c1a502d44b980f5
 
