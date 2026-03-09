@@ -1,5 +1,5 @@
 Package: tourguided
-Version: 0.4.4-1
+Version: 0.4.5-1
 Architecture: aarch64_cortex-a53
 Maintainer: GVQ <dev@grpvoyqc.com>
 Description: Tour guide audio relay server for GL-MT3000
@@ -7,7 +7,7 @@ Section: net
 Depends: e2fsprogs, fdisk
 Priority: optional
 Installed-Size: 7048
-Filename: tourguided_0.4.4-1_aarch64_cortex-a53.ipk
-Size: 2844711
-SHA256sum: e209a8290b50c7f3749e3248de557d35a57ad6c0588eac10bf5c98bdc1936e0a
+Filename: tourguided_0.4.5-1_aarch64_cortex-a53.ipk
+Size: 2844757
+SHA256sum: d673b46afe03f831be346da75586a7a2a23951acdac97a4f26b71ac2dac5ca8f
 
