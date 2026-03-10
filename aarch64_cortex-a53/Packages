@@ -8,6 +8,6 @@ Depends: e2fsprogs, fdisk
 Priority: optional
 Installed-Size: 7048
 Filename: tourguided_0.4.6-1_aarch64_cortex-a53.ipk
-Size: 2844792
-SHA256sum: 064eacc2ea2849c7304f750c8259f71a488de00dee4b32efbe1fdaa1bae0c448
+Size: 2844817
+SHA256sum: 198d67f478b081f4e4f33e6fe6a84f884cfde4c762f534d170f6329e82382905
 
